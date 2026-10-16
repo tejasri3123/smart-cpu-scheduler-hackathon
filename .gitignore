@@ -1,0 +1,16 @@
+# Compiled executables
+scheduler
+baseline_scheduler
+modules/co1_os_services/co1_demo
+modules/co2_process_control/co2_demo
+modules/co3_ipc/scheduler_pipe
+modules/co3_ipc/fifo_demo
+modules/co3_ipc/unix_socket_demo
+modules/co3_ipc/signal_demo
+modules/co3_ipc/shared_memory_demo
+modules/co4_virtual_memory/memory_demo
+modules/co5_file_system/scheduler_file_io
+modules/co6_concurrency/concurrency_demo
+
+# Object files
+*.o
